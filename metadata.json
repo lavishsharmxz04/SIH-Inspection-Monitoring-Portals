@@ -1,0 +1,6 @@
+{
+  "name": "SIH Inspection & Monitoring Portal",
+  "description": "Official centralized inspection and monitoring platform for authorized organizations to manage inspections, field teams, issues, evidence and official reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
